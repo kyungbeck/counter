@@ -1,0 +1,11 @@
+./iterative2 10000000
+OK cnt=20000000
+Exe time : 0.080000 sec
+
+./goodcnt 10000000
+OK cnt=20000000
+Exe time : 0.790000 sec
+
+./fetch_and_add 10000000
+OK cnt=20000000
+Exe time : 0.240000 sec
